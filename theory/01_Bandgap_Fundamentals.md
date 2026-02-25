@@ -43,9 +43,7 @@ The core idea of a bandgap reference is to combine:
 
 The base-emitter voltage \(V_{BE}\) of a BJT decreases with temperature:
 
-\[
-V_{BE} \approx V_{G0} - \alpha T
-\]
+VBE​≈VG0​−αT
 
 This creates a negative temperature coefficient.
 
@@ -55,14 +53,12 @@ This creates a negative temperature coefficient.
 
 By using two BJTs with different emitter areas, a voltage difference is generated:
 
-\[
-\Delta V_{BE} = V_T \ln(N)
-\]
+ΔVBE​=VT​ln(N)
 
 Where:
 
-- \(V_T = kT/q\) (thermal voltage)
-- \(N\) = emitter area ratio
+- VT = kT/q (thermal voltage)
+- N = emitter area ratio
 
 This voltage increases with temperature, creating a PTAT behavior.
 
@@ -72,9 +68,7 @@ This voltage increases with temperature, creating a PTAT behavior.
 
 The bandgap voltage is formed by adding a scaled PTAT voltage to the CTAT voltage:
 
-\[
-V_{REF} = V_{BE} + k \cdot \Delta V_{BE}
-\]
+VREF​=VBE​+k⋅ΔVBE​
 
 By carefully choosing the scaling factor \(k\), the temperature dependence cancels out, producing an approximately constant reference near **1.2 V**, close to the silicon bandgap voltage.
 
