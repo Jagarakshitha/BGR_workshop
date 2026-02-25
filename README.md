@@ -9,3 +9,10 @@ this repository. By adding up the CTAT and PTAT currents via a self-biased circu
 Starting with transistor-level SPICE simulations, start-up circuit analysis, and hierarchical layout development in Magic VLSI, the design process encompasses the full analogue design chain. PTAT/CTAT current
 modelling, bias stabilisation, device matching, and design methodology are among the main subjects discussed.
 
+## Tools Used
+- Ngspice
+- Magic VLSI
+- SKY130 PDK
+
+## Architecture
+<img width="752" height="490" alt="image" src="https://github.com/user-attachments/assets/c3846e5e-7412-4dca-affc-ccc13fd5a3fa" />
