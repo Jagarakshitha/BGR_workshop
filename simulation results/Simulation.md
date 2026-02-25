@@ -1,9 +1,9 @@
 # Simulation Results
 ## CTAT
 
-<img width="527" height="230" alt="image" src="https://github.com/user-attachments/assets/030efc91-6ab2-4720-9341-5d3b2a54ecf8" />
-
 <img width="788" height="434" alt="Screenshot 2026-02-25 220139" src="https://github.com/user-attachments/assets/91a21a64-5d09-4018-a43b-9dc103369247" />
+
+<img width="527" height="230" alt="image" src="https://github.com/user-attachments/assets/030efc91-6ab2-4720-9341-5d3b2a54ecf8" />
 
 ### multiple BJT
 <img width="604" height="504" alt="image" src="https://github.com/user-attachments/assets/ae82efef-d15a-4707-9c9a-178479c93eef" />
