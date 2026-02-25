@@ -39,6 +39,8 @@ The core idea of a bandgap reference is to combine:
 - **CTAT voltage** (Complementary To Absolute Temperature)
 - **PTAT voltage** (Proportional To Absolute Temperature)
 
+---
+
 ### 3.1 CTAT Component
 
 The base-emitter voltage \(V_{BE}\) of a BJT decreases with temperature:
