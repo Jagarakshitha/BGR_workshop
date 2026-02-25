@@ -6,6 +6,8 @@ A Bandgap Reference (BGR) is a fundamental analog circuit used to generate a tem
 
 Unlike simple resistor dividers or Zener-based references, a bandgap reference compensates for temperature variations by combining two opposing voltage characteristics: CTAT and PTAT.
 
+<img width="749" height="455" alt="image" src="https://github.com/user-attachments/assets/68c10fa5-e6d6-4ce2-9a5e-658a570e0146" />
+
 ---
 
 ## 2. Why Reference Voltage Circuits Are Needed
